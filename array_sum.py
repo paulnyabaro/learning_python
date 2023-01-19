@@ -8,5 +8,5 @@ print(new_list)
 
 # Alternative approach
 for i in range(1, len(array)):
-    array2[i] += array2[i -1]
+    array2[i] += array2[i - 1]
 print(array2)
