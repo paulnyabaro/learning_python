@@ -12,4 +12,7 @@ class Animal:
         return self.name
 
     def make_noise(self):
-        print(self.name + 'bark')
+        print(self.name + ' bark')
+
+cat = Animal("cat")
+cat.make_noise()
