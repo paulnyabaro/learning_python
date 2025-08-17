@@ -16,3 +16,6 @@ class Animal:
 
 cat = Animal("cat")
 cat.make_noise()
+
+dog = Animal("Dog")
+dog.make_noise()
