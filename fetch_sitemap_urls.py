@@ -102,8 +102,7 @@ def save_to_excel(all_urls, filename='sitemap_urls.xlsx'):
 def main():
     # Sitemap URLs
     sitemaps = [
-        'https://legalwritingexperts.com/sitemap-posts-1.xml',
-        'https://legalwritingexperts.com/sitemap-posts-2.xml'
+        'https://legalwritingexperts.com/sitemap-posts-1.xml'
     ]
     
     all_urls = []
